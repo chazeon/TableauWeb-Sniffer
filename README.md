@@ -1,3 +1,9 @@
 # TableauWeb Sniffer
 
-Scrapping data from websites built with Tableau.
+Tools and gears for scraping websites created with Tableau.
+
+## Installation
+
+```bash
+pip3 install -U .
+```
